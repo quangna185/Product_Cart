@@ -1,4 +1,4 @@
-// Bài 10 Tạo ID ngẫu nhiêu vs ngày tháng giờ
+// Bài 10 Tạo ID ngẫu nhiêu vs ngày tháng giờ cho
 function generatedId() {
   var id = "";
   while (id.length < 4) {

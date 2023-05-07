@@ -38,7 +38,7 @@ function onChangeProvince() {
     });
 }
 
-// phương
+// goi API phường
 
 function onChangeDistrict() {
   const getDistrictValue = document.getElementById("district").value;
