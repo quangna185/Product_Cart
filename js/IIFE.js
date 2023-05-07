@@ -57,3 +57,5 @@ const app = (function () {
     handleCreateInfo,
   };
 })();
+
+// IIFE
